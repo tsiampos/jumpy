@@ -6,4 +6,4 @@ EaselJS-based 2D Game &nbsp;&nbsp;[<img src="https://www.paypalobjects.com/en_US
 In this game player has to bounce successfully over platforms.<br>
 Single or double jump can be made.
 
-![alt tag](https://raw.githubusercontent.com/tsiampos/jumpy/master/assets/screen.png)
+![alt tag](https://raw.githubusercontent.com/donkeyrepos/jumpy/master/assets/screen.png)
